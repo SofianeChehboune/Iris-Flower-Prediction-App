@@ -1,5 +1,7 @@
 # Iris Flower Prediction App 🌺
 
+**👉 Live Demo: [Iris Flower Prediction App](https://iris-flower-prediction-app-jbheuyketpszewtwnoed4o.streamlit.app/)**
+
 ![Dataset Cover](dataset-cover.jpg)
 
 An interactive web application built with Streamlit to predict the species of an Iris flower based on its sepal and petal measurements. This project demonstrates a complete machine learning workflow, from data exploration to model deployment in a user-friendly interface.
