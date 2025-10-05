@@ -460,7 +460,7 @@ st.plotly_chart(fig_heatmap)
 ## Étape 9 : Comment Lancer l'Application
 
 1.  Assurez-vous que tous vos fichiers (`app.py`, `Iris.csv`, `dataset-cover.jpg`, `banniere.png`, `ID.jpg`, `linkedin.png`) sont dans le même dossier.
-2.  Ouvrez un terminal (comme `cmd` ou `PowerShell`).
+2.  Ouvrez un terminal la plupart des éditeurs de code (comme VS Code ou PyCharm) ont un terminal intégré que vous pouvez utiliser. Sinon, ouvrez `cmd` ou `PowerShell`.
 3.  Naviguez jusqu'au dossier de votre projet avec la commande `cd`.
 4.  Lancez la commande magique :
     ```bash
